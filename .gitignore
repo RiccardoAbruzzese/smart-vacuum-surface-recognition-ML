@@ -1,0 +1,27 @@
+# macOS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows thumbnails
+Thumbs.db
+ehthumbs.db
+
+# Python & Jupyter cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb_checkpoints
+
+# Virtual Environment
+.venv/
+venv/
+env/
+.env
+
+# Generated intermediate data (reproducible from scripts)
+data/interim/
+
+# Local model artifacts or figures (optional)
+*.pkl
+*.joblib
